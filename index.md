@@ -1,4 +1,4 @@
 
 
-<embed src="https://jooyoun.odob.co/JooYoun_Paek_resume_2019.pdf" type="application/pdf" />
+<embed src="https://jooyoun.odob.co/JooYoun Paek 2019.pdf" type="application/pdf" />
 
