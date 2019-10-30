@@ -1,4 +1,6 @@
 ## Welcome to GitHub Pages
+https://guides.github.com/features/pages/
+https://github.com/jooyoun/resume.git
 
 You can use the [editor on GitHub](https://github.com/jooyoun/odob.co/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
